@@ -10,13 +10,13 @@ NWTC Design Codes DATA USE DISCLAIMER AGREEMENT that can be found at
 
 
 
-Required OpenFOAM Version:  6
+Required OpenFOAM Version:  v1812
 Optional OpenFAST Version:  dev
 
 
 
 This is a placeholder for a stable version of SOWFA meant to work with 
-OpenFOAM-6.  We are currently developing this code on the 'dev' branch
+OpenFOAM-v1812.  We are currently developing this code on the 'dev' branch
 of this repository.  If you would like to check it out, please checkout
-that branch and explore.  SOWFA-6 will work with OpenFOAM-6, will contain
+that branch and explore.  SOWFA-v1812 will work with OpenFOAM-v1812, will contain
 one unified solver, and will generally be improved.
